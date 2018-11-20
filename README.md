@@ -141,7 +141,17 @@ Table of Contents
 * [Tool - mimikittenz](https://github.com/putterpanda/mimikittenz) - A post-exploitation powershell tool for extracting juicy info from memory.
 * [Tool - SlackExtract](https://github.com/clr2of8/SlackExtract) - A PowerShell script to download all files, messages and user profiles that a user has access to in slack.
 
-
+### [T1213 - Data from Information Repositories](https://attack.mitre.org/techniques/T1213)
+### Sharepoint enumeration
+* [Wordlist - sharepoint.txt](https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/CMS/sharepoint.txt)
+* [Wordlist - SharePoint-UrlExtensions-18Mar2012.txt](https://github.com/wadem/shareforce/blob/master/SharePoint-UrlExtensions-18Mar2012.txt)
+* [Tool - SParten](https://github.com/sensepost/SPartan) - Frontpage and Sharepoint fingerprinting and attack tool.
+* [Tool - SharePwn](https://github.com/0rigen/SharePwn) - A tool for auditing SharePoint security settings and identifying common security holes.
+* [Tool - SharePointURLBrute-v1.1](https://github.com/bhasbor/SharePointURLBrute-v1.1)
+* [Tool - ShareForce](https://github.com/wadem/shareforce) - shareurls is intended for a low privilege user to try and access a large number of administrative urls. It takes a screenshot of each page in Chrome so you can quickly scan the directory and find issues. shareforce uses the darkc0de.lst password file (you need to download this) to brute force the Sharepoint login form.
+* [Article - Sharepoint Attack Tools](https://www.bishopfox.com/resources/tools/sharepoint-hacking-diggity/attack-tools/)
+* [Article - Research for Sharepoint MOSS](https://github.com/OWASP-Archives/Social-Data/blob/d88d310af8ed04ec4f7c20c8f2fd18f784d8789d/O2_Collected_Data/owasp_org_wiki/Pages/Research_for_SharePoint__MOSS_.wikitext.txt)
+* [Article - Technical Advisory: Bypassing Workflows Protection Mechanisms - Remote Code Execution on SharePoint](https://www.nccgroup.trust/uk/our-research/technical-advisory-bypassing-workflows-protection-mechanisms-remote-code-execution-on-sharepoint/)
 
 ## [↑](#table-of-contents) [Exfiltration](https://attack.mitre.org/tactics/TA0010/)
 ### [T1048 - Exfiltration Over Alternative Protocol](https://attack.mitre.org/techniques/T1048)
