@@ -38,7 +38,9 @@ Table of Contents
 ## [↑](#table-of-contents) [Execution](https://attack.mitre.org/tactics/TA0002/)
 ### [T1047 - Windows Management Instrumentation](https://attack.mitre.org/techniques/T1047)
 * [SharpWMI](https://github.com/GhostPack/SharpWMI) - C# implementation of various WMI functionality.
- 
+* [Tool - Csexec](https://github.com/malcomvetter/CSExec)a - C# implementation
+  of psexec.
+
 ## [↑](#table-of-contents) [Persistence](https://attack.mitre.org/tactics/TA0003/)
 * [WheresMyImplant](https://github.com/0xbadjuju/WheresMyImplant) - Contains the tooling nessessary to gaining and maintain access to target system. It can also be installed as WMI provider for covert long term persistence.
 
